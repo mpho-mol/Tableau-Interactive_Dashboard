@@ -1,1 +1,3 @@
-# Tableau_Interactive-Dashboard
+Tableau is a business intelligence and data visualisation software allowing users to create interactive dashboards and storyboards. It is accesible to both individuals and organisation to analyse and transform data from different sources to derive usable insights through charts and other visual aids.
+
+The aim of this project was to create an interactive dashboard of the housing prices in the caertain are in the USA using dataset in the HouseData.xlxs file. The first step was to load the data before creating the visuals. Then the charts are created in separate worksheets and formatted as desired. A calender widget was created in order ot be used like a filter, similarly to a slicer in Excel. Finally, the dashboard was built with the components placed in different vertical containers, including the filters.
